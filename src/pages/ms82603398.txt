@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "cecchin-inc.com",
+  "Id": "cea75b85-9eea-4376-899e-6fd75ae36db8"
+}
